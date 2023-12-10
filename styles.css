@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+.app{
+    background: rgb(216, 198, 165);
+    padding: 30px;
+    height: 100vh;
+}
+
+.todo-list{
+    background: lightskyblue;
+    border-radius: 30px;
+    height: 100vh;
+}
+
+.input{
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
